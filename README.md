@@ -39,8 +39,8 @@ done. three test notifications fire automatically so you know it worked.
 ## usage
 
 ```bash
-notify-send -u low      "Advancement Made!" 
-notify-send -u normal   "Achievement get!"    
+notify-send -u low "Advancement Made!" 
+notify-send -u normal "Achievement get!"    
 notify-send -u critical "Goal Reached!"     
 ```
 
