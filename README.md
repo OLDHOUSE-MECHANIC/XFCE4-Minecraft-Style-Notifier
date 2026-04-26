@@ -11,12 +11,14 @@ because why should my system alerts look boring
 ## what it does
 
 your notifications now look like minecraft achievement popups
-
+```
 low urgency → Advancement Made!
 normal → Achievement get!
 critical → Goal Reached! (red border, stays until you close it)
+```
+minecraft font, pixel corners. that look pixel look that i always wanted!!
 
-minecraft font, pixel corners, zero nonsense
+<img width="1920" height="1080" alt="SSmineNotif" src="https://github.com/user-attachments/assets/0344171b-0a0c-4f5d-97bc-f44aa2d3772a" />
 
 ## requirements
 
