@@ -109,11 +109,11 @@ sleep 1
 
 # ── 4. Fire test notifications ───────────────────────────────────
 echo "==> Sending test notifications..."
-notify-send -u low      "Advancement Made!" "The End?"
+notify-send -u low      "Advancement Made" "Setup Complete"
 sleep 1.5
-notify-send -u normal   "Achievement get!"  "Getting Wood"
+notify-send -u normal   "Achievement get"  "Have Fun Now"
 sleep 1.5
-notify-send -u critical "Goal Reached!"     "Zombie Doctor"
+notify-send -u critical "Goal Reached"     "Your Good to Go"
 
 echo ""
 echo "All done! Three test notifications sent."
