@@ -8,6 +8,9 @@ because why should my system alerts look boring
 ![badge](https://img.shields.io/badge/dunst-notification-green)
 ![badge](https://img.shields.io/badge/vibes-immaculate-yellow)
 
+<img width="803" height="431" alt="image" src="https://github.com/user-attachments/assets/080ecd2c-0d2c-4e9c-91d9-fc35d4f881e5" />
+
+
 ## what it does
 
 your notifications now look like minecraft achievement popups
@@ -18,7 +21,11 @@ critical → Goal Reached! (red border, stays until you close it)
 ```
 minecraft font, pixel corners. that look pixel look that i always wanted!!
 
-<img width="1920" height="1080" alt="SSmineNotif" src="https://github.com/user-attachments/assets/0344171b-0a0c-4f5d-97bc-f44aa2d3772a" />
+---
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7598863-b729-4816-a34f-1d20bbc297da" />
+
+---
 
 ## requirements
 
